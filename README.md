@@ -31,7 +31,7 @@ Currently, I’m open to **full-time, part-time, or internship** opportunities i
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **Postdoctoral Researcher** – SUNY Buffalo  
 *Sept 2022 – May 2024*  
@@ -57,9 +57,9 @@ Currently, I’m open to **full-time, part-time, or internship** opportunities i
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔐 [**PaxiBFT**](https://github.com/salemmohammed/PaxiBFT)
+### [**PaxiBFT**](https://github.com/salemmohammed/PaxiBFT)
 A framework for implementing and benchmarking BFT protocols. Published in IEEE COINS 2021.  
 **Tech:** Go, Distributed Systems, Consensus, Docker
 
@@ -73,7 +73,7 @@ Preprint on arXiv: [BunchBFT: Across-Cluster Consensus Protocol](https://arxiv.o
 
 ---
 
-## 📚 Selected Publications
+## Selected Publications
 
 - **BigBFT:** *A Multileader Byzantine Fault Tolerance Protocol* – IEEE IPCCC 2021  
   [DOI](https://doi.org/10.1109/IPCCC51483.2021.9679432)
