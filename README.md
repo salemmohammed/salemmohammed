@@ -8,7 +8,7 @@ Ph.D. in Computer Science | Researcher & Software Engineer
 [![GitHub](https://img.shields.io/badge/GitHub-salemmohammed-black?logo=github)](https://github.com/salemmohammed)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-brightgreen?logo=googlescholar)](https://scholar.google.com/citations?user=CXgrQo4AAAAJ&hl=en)
 [🌐 Personal Website](https://salemmohammed.github.io/webpage/)  
-📄 [Download CV (PDF)](https://github.com/salemmohammed/webpage/blob/main/Salem_Alqahtani.pdf)
+📄 [Download CV (PDF)](https://drive.google.com/file/d/1vyc-Y-UibAoQ-PnQ0T1j11xf1JZXHzPY/view?usp=sharing)
 
 ---
 
