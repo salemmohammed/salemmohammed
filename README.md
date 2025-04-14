@@ -67,7 +67,7 @@ A framework for implementing and benchmarking BFT protocols. Published in IEEE C
 A multi-leader BFT protocol to increase throughput and reduce latency.  
 Published in IEEE IPCCC 2021.
 
-### 🌍 BunchBFT  
+### BunchBFT  
 Cluster-based BFT protocol for geo-distributed systems.  
 Preprint on arXiv: [BunchBFT: Across-Cluster Consensus Protocol](https://arxiv.org/abs/2205.10658)
 
@@ -89,7 +89,7 @@ Preprint on arXiv: [BunchBFT: Across-Cluster Consensus Protocol](https://arxiv.o
 
 ---
 
-## 🧠 Research Interests
+## Research Interests
 
 - Distributed Systems & Consensus Protocols  
 - Federated Learning & Edge Computing  
@@ -99,7 +99,7 @@ Preprint on arXiv: [BunchBFT: Across-Cluster Consensus Protocol](https://arxiv.o
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 - **Languages:** Go, Python, Java, C/C++, Bash  
 - **Distributed Systems:** gRPC, Docker, Kafka  
@@ -111,10 +111,10 @@ Preprint on arXiv: [BunchBFT: Across-Cluster Consensus Protocol](https://arxiv.o
 
 ---
 
-## 🌐 Languages & Residency
+## Languages & Residency
 
 - **Languages:** English (Fluent), Arabic (Native)  
-- **Residency:** U.S. Based in Texas, USA
+- **Residency:** U.S. based in Texas, USA
 
 ---
 
