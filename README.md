@@ -114,7 +114,7 @@ Preprint on arXiv: [BunchBFT: Across-Cluster Consensus Protocol](https://arxiv.o
 ## 🌐 Languages & Residency
 
 - **Languages:** English (Fluent), Arabic (Native)  
-- **Residency:** U.S. Green Card Holder | Based in Texas, USA
+- **Residency:** U.S. Based in Texas, USA
 
 ---
 
