@@ -11,6 +11,14 @@ Ph.D. in Computer Science | Researcher & Software Engineer
 [Download CV (PDF)](https://drive.google.com/file/d/1vyc-Y-UibAoQ-PnQ0T1j11xf1JZXHzPY/view?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.medium.com/@salem) 
 
+---
+
+## 📝 Blog
+
+Stay up to date with my latest thoughts and research:
+- 📘 [Visit My Blog](https://salemmohammed.github.io/webpage/blog) _(hosted on my GitHub page)_
+
+> I post updates on distributed systems, blockchain, federated learning, and more.
 
 
 ---
