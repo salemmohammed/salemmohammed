@@ -1,4 +1,4 @@
-# 👨‍💻 Salem Alqahtani
+# Salem Alqahtani
 
 Ph.D. in Computer Science | Researcher & Software Engineer  
 🔬 Distributed Systems • Federated Learning • Blockchain • Consensus Protocols  
