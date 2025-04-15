@@ -2,7 +2,7 @@
 layout: post
 title: "Welcome to My Blog"
 date: 2025-04-13
-categories: 
+categories:
   - blog
   - distributed-systems
   - Federated-Learning
@@ -10,18 +10,20 @@ categories:
   - Architecture
   - ML
 ---
+
 Welcome to my technical blog! I’ll share posts about distributed systems, federated learning, OS internals, and machine learning.
 
 ---
-layout: post
-title: "Exploring Flower: A Federated Learning Framework"
-date: 2025-04-14
-categories: 
-  - federated-learning
+
+## 🗂️ Blog Metadata
+
+| layout | title                                         | date       | categories                                          |
+|--------|-----------------------------------------------|------------|-----------------------------------------------------|
+| post   | Welcome to My Blog                            | 2025-04-13 | blog, distributed-systems, Federated-Learning, OS, Architecture, ML |
+| post   | Exploring Flower: A Federated Learning Framework | 2025-04-14 | federated-learning                                  |
+
 ---
 
-Check out my article here:
+Check out my post:
 
 👉 [Exploring Flower: A Federated Learning Framework](https://salemal.medium.com/exploring-flower-a-federated-learning-framework-29111892b389)
-
-This post explores the architecture and use cases of Flower, a flexible framework for building federated learning applications.
