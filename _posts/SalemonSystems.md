@@ -20,10 +20,6 @@ Welcome to my technical blog! I’ll share posts about distributed systems, fede
 | layout | title                                         | date       | categories                                          |
 |--------|-----------------------------------------------|------------|-----------------------------------------------------|
 | post   | Welcome to My Blog                            | 2025-04-13 | blog, distributed-systems, Federated-Learning, OS, Architecture, ML |
-| post   | Exploring Flower: A Federated Learning Framework | 2025-04-14 | federated-learning                                  |
+| post   |  [Exploring Flower: A Federated Learning Framework](https://salemal.medium.com/exploring-flower-a-federated-learning-framework-29111892b389) | 2025-04-14 | federated-learning                                  |
 
 ---
-
-Check out my post:
-
-👉 [Exploring Flower: A Federated Learning Framework](https://salemal.medium.com/exploring-flower-a-federated-learning-framework-29111892b389)
