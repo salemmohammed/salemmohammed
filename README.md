@@ -7,8 +7,9 @@ Ph.D. in Computer Science | Researcher & Software Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/salemmohammed) 
 [![GitHub](https://img.shields.io/badge/GitHub-salemmohammed-black?logo=github)](https://github.com/salemmohammed)
 [![Google Scholar](https://img.shields.io/badge/Scholar-Publications-brightgreen?logo=googlescholar)](https://scholar.google.com/citations?user=CXgrQo4AAAAJ&hl=en)
-[Personal Website](https://salemmohammed.github.io/webpage/)  
+
 [Download CV (PDF)](https://drive.google.com/file/d/1vyc-Y-UibAoQ-PnQ0T1j11xf1JZXHzPY/view?usp=sharing)
+[Personal Website](https://salemmohammed.github.io/webpage/)  
 
 ---
 
