@@ -1,0 +1,7 @@
+title: Salem's Blog
+email: salem055@gmail.com
+description: >-
+  My personal thoughts on distributed systems, blockchain, and research.
+baseurl: "" 
+url: "https://salemmohammed.github.io"
+theme: jekyll-theme-minimal
