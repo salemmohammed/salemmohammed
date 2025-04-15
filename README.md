@@ -16,7 +16,7 @@ Ph.D. in Computer Science | Researcher & Software Engineer
 ## Blog
 
 Stay up to date with my latest thoughts and research:
-- [Visit My Blog](https://www.medium.com/@salemal)
+- [Visit My Blog](https://github.com/salemmohammed/salemmohammed/blob/main/_posts/SalemonSystems.md)
 > I post updates on distributed systems, blockchain, federated learning, and more.
 
 
