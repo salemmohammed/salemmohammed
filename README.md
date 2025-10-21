@@ -2,7 +2,6 @@
 
 Ph.D. in Computer Science | Researcher & Software Engineer  
 🔬 Distributed Systems • Federated Learning • Blockchain • Consensus Protocols  
-📍 San Antonio, Texas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](http://www.linkedin.com/in/salemmohammed) 
 [![GitHub](https://img.shields.io/badge/GitHub-salemmohammed-black?logo=github)](https://github.com/salemmohammed)
