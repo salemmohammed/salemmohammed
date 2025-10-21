@@ -120,7 +120,6 @@ Preprint on arXiv: [BunchBFT: Across-Cluster Consensus Protocol](https://arxiv.o
 ## Languages & Residency
 
 - **Languages:** English (Fluent), Arabic (Native)  
-- **Residency:** U.S. based in Texas, USA
 
 ---
 
