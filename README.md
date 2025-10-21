@@ -23,9 +23,7 @@ Stay up to date with my latest thoughts and research:
 
 I'm a distributed systems researcher and software engineer with a Ph.D. from **SUNY Buffalo**.  
 My work spans scalable **Byzantine Fault Tolerant (BFT) protocols**, **federated learning**, and **distributed databases**.  
-I've held research positions at **University of Utah**, **SUNY Buffalo**, and taught graduate courses in **Distributed Systems**.  
-Currently, I’m open to **full-time, part-time, or internship** opportunities in software engineering, research, or cloud infrastructure.
-
+I've held research positions at **University of Utah**, **SUNY Buffalo**, and taught graduate courses in **Distributed Systems**.
 ---
 
 ## 🎓 Education
