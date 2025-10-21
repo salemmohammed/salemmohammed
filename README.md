@@ -45,16 +45,16 @@ I've held research positions at **University of Utah**, **SUNY Buffalo**, and ta
 - Integrated the Flower framework for evaluation
 - Analyzed update and message loss rates in FL systems
 
+**Course Instructor (Graduate)** – SUNY Buffalo  
+*May 2023 – Aug 2023*  
+- Designed and taught Distributed Systems  
+- Delivered lectures, assignments, and assessments
+
 **Postdoctoral Researcher** – SUNY Buffalo  
 *Sept 2022 – May 2024*  
 - Optimized distributed transaction processing in CockroachDB
 - Reduced abort rates with concurrency control strategies
 - Benchmarked YCSB & TPC-C on AWS/CloudLab
-
-**Course Instructor (Graduate)** – SUNY Buffalo  
-*May 2023 – Aug 2023*  
-- Designed and taught Distributed Systems  
-- Delivered lectures, assignments, and assessments
 
 **Teaching Assistant** – King Khalid University  
 *2011 – 2013*  
